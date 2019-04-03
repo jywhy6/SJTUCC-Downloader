@@ -31,5 +31,3 @@ if(file_req.status_code == 200):
     print("Success")
 else:
     print("Failed: unable to get document file")
-
-
